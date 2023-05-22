@@ -111,7 +111,7 @@ img {
     object-fit: cover;
 }
 
-/* ************ MEDIA QUERIES (MEDIUM DEVICES */
+/* ************ MEDIA QUERIES (MEDIUM DEVICES*********** */
 @media screen and (max-width){
     .container {
         width: var (--container-width-md);
@@ -122,7 +122,7 @@ img {
     }
 }
 
-/* ************ MEDIA QUERIES (SMALL DEVICES */
+/* ************ MEDIA QUERIES (SMALL DEVICES) *********** */
 @media screen and (max-width){
     .container {
         width: var (--container-width-sm);
