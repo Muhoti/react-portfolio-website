@@ -19,35 +19,40 @@ const About = () => {
         </div>
 
         <div className="about_content">
-
           <div className="about_cards">
             <article className="about_card">
-              <VscFolderLibrary className='about_icon'/>
+              <VscFolderLibrary className="about_icon" />
               <h5>Experience</h5>
               <small>3 + Year Working</small>
             </article>
 
             <article className="about_card">
-              <FaAward className='about_icon'/>
+              <FaAward className="about_icon" />
               <h5>Clients</h5>
               <small>2+ Worldwide</small>
             </article>
 
             <article className="about_card">
-              <FiUsers className='about_icon'/>
+              <FiUsers className="about_icon" />
               <h5>Projects</h5>
               <small>80+ Completed Projects</small>
             </article>
-            
           </div>
 
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque dignissimos fuga mollitia saepe aspernatur rerum eligendi iusto ipsa dolorem. Ipsa quasi excepturi inventore impedit id numquam quia temporibus voluptate quam!</p>
-          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
+          <p>
+            I am a seasoned technologist, constantly fueled by the desire to
+            create innovative solutions that drive efficiency and productivity
+            for businesses. With years of experience under my belt, I have honed
+            my skills to deliver top-notch digital products that meet the unique
+            needs of each client.
+          </p>
+          <a href="#contact" className="btn btn-primary">
+            Let's Talk
+          </a>
         </div>
       </div>
-
     </section>
-  )
+  );
 }
 
 export default About
