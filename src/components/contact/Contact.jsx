@@ -40,7 +40,7 @@ const Contact = () => {
 
           <article className="contact_option">
             <RiMessengerLine className='contact_option-icon'/>
-            <h4>Messanger</h4>
+            <h4>Messenger</h4>
             <h5>Strong Muhoti</h5>
             <a href="https://m.me/strong.muhoti.1/" target='_blank'>Send a message</a>
           </article>
