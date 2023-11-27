@@ -18,25 +18,25 @@ const data = [
   {
     avatar: AVTR1,
     name: 'Tina Snow',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit ratione tenetur dignissimos, fugit at autem culpa sapiente quasi delectus nesciunt!',
+    review: 'I worked with Strong Muhoti on my personal portfolio and I just loved how he offered his services. To him, client satisfaction is key and I must say I really admired his patience.',
   },
 
   {
     avatar: AVTR2,
     name: 'Shatta Wale',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit ratione tenetur dignissimos, fugit at autem culpa sapiente quasi delectus nesciunt!',
+    review: 'I really needed a webiste for my clothe business when a friend hooked me up with Mr. Strong. I\'m in the process of telling all my friends about him coz he is just the guy who gives you what you want. Kudos Strong!',
   },
 
   {
     avatar: AVTR3,
     name: 'Kwame Despite',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit ratione tenetur dignissimos, fugit at autem culpa sapiente quasi delectus nesciunt!',
+    review: 'Strong made for me my business\' app. It works so seamlessly but the best thing I loved about him; was his customer service. It is just top notch😉',
   },
 
   {
     avatar: AVTR4,
     name: 'Nana Ana McBrown',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit ratione tenetur dignissimos, fugit at autem culpa sapiente quasi delectus nesciunt!',
+    review: 'We bumped into each other with Strong on an event we had both attended and he told me how he makes mobile apps for businesses. I needed an android app for managing my business web app and in less than a month Strong made me a perfect one. Morever, he even hosted it for me for free! He is really your go to guy for your business app needs. Thanks Strong Muhoti!😎',
   },
 ]
 

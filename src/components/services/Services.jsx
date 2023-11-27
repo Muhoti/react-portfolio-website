@@ -1,6 +1,6 @@
-import React from 'react'
-import './services.css'
-import { BiCheck } from 'react-icons/bi'
+import React from "react";
+import "./services.css";
+import { BiCheck } from "react-icons/bi";
 
 const Services = () => {
   return (
@@ -16,31 +16,31 @@ const Services = () => {
           <ul className="service_list">
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Understanding client's needs and preferences.</p>
+              <p>User Needs Assessment.</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Organizing content and navigation logically.</p>
+              <p>Wireframing & Prototyping</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Creating wireframes for basic layout.</p>
+              <p>User Interface Design</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Building interactive prototypes for testing.</p>
+              <p>Information Architecture</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Designing visually appealing interfaces.</p>
+              <p>Interaction Design</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Optimizing for various devices and accessibility.</p>
+              <p>Visual Design & Branding</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Continous Client Support</p>
+              <p>Usability Evaluation</p>
             </li>
           </ul>
         </article>
@@ -53,31 +53,27 @@ const Services = () => {
           <ul className="service_list">
             <li>
               <BiCheck className="service_list-icon" />
-              <p>
-                Website Design: Visually appealing and user-friendly layouts.
-              </p>
+              <p>Front-end Development</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Back-End Development: Server-side logic and databases.</p>
+              <p>Back-end Development</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>
-                Full-Stack Development: End-to-end web application development.
-              </p>
+              <p>Full Stack Development</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>E-Commerce Solutions: Online stores with secure payments.</p>
+              <p>E-Commerce Solutions</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Content Management Systems (CMS): Easy content updates</p>
+              <p>Responsive Web Design</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Responsive Web Design: Optimized for different devices.</p>
+              <p>API Development & Integration</p>
             </li>
           </ul>
         </article>
@@ -90,40 +86,31 @@ const Services = () => {
           <ul className="service_list">
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Native App Development: Platform-specific app creation.</p>
+              <p>IOS App Development</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>
-                Cross-Platform App Development: Multi-platform compatibility.
-              </p>
+              <p>Android App Development</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>UI/UX Design: Intuitive, visually appealing interfaces.</p>
+              <p>Cross-platform Development</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Backend Development: Server-side logic and databases.</p>
+              <p>Mobile App UI/UX Design</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>
-                App Testing and Quality Assurance: Ensuring functionality and
-                perfomance.
-              </p>
+              <p>App Prototyping & Testing</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>
-                App Deployment: Publishing on app stores.
-              </p>
+              <p>App Integration & Deployment</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>
-                App Maintenance and Updates: Ongoing support and improvements.
-              </p>
+              <p>App Maintenance & Updates</p>
             </li>
           </ul>
         </article>
@@ -132,6 +119,6 @@ const Services = () => {
       </div>
     </section>
   );
-}
+};
 
-export default Services
+export default Services;
