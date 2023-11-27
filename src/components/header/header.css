@@ -1,5 +1,5 @@
 header {
-  height: 100vh;
+  height: 160vh;
   padding-top: 7rem;
   overflow: hidden;
 }
@@ -40,13 +40,13 @@ header {
 .me {
   background: linear-gradient(var(--color-primary), transparent);
   width: 22rem;
-  height: 30rem;
+  height: 300rem;
   position: absolute;
   left: calc(50% - 11rem);
   margin-top: 4rem;
   border-radius: 12rem 12rem 0 0;
   overflow: hidden;
-  padding: 5rem 1.5rem 1.5rem 1.5rem;
+  /* padding: 5rem 1.5rem 1.5rem 1.5rem; */
 }
 
 /* *********** SCROLL DOWN ************* */
@@ -62,14 +62,14 @@ header {
 /* ************ MEDIA QUERIES (MEDIUM DEVICES*********** */
 @media screen and (max-width: 1024px) {
   header {
-    height: 68vh;
+    height: 160vh;
   }
 }
 
 /* ************ MEDIA QUERIES (SMALL DEVICES*********** */
 @media screen and (max-width: 600px) {
   header {
-    height: 68vh;
+    height: 160vh;
   }
 
   .header_social,
