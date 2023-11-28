@@ -6,8 +6,17 @@ import img3 from "../../assets/portfolio3.jpg";
 import img4 from "../../assets/portfolio4.jpg";
 import img5 from "../../assets/portfolio5.png";
 import img6 from "../../assets/portfolio6.jpg";
+import img7 from "../../assets/portfolio7.jpg";
+
 
 const data = [
+  {
+    id: 7,
+    image: img7,
+    title: "USAID Monitoring & Evaluation Management Information System",
+    github: "https://github.com/muhoti",
+    demo: "https://www.figma.com/proto/rRH3JzUKT4WVBpkU8QLLd4/MEL-MIS?type=design&node-id=141-6138&t=ywsFIh7YeWieubLx-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=141%3A6150&show-proto-sidebar=1",
+  },
   {
     id: 1,
     image: img1,
