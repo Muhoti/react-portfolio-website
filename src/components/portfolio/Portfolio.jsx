@@ -7,9 +7,16 @@ import img4 from "../../assets/portfolio4.jpg";
 import img5 from "../../assets/portfolio5.png";
 import img6 from "../../assets/portfolio6.jpg";
 import img7 from "../../assets/portfolio7.jpg";
-
+import img8 from "../../assets/portfolio8.jpg";
 
 const data = [
+  {
+    id: 8,
+    image: img8,
+    title: "Box Champy Fitness & Training",
+    github: "https://github.com/muhoti",
+    demo: "https://www.figma.com/proto/4wGFc3QWx7dmkmPiouv0Ie/BOXING-CLUB?type=design&node-id=1-2&t=aXAtQU17hQWtqquI-0&scaling=min-zoom&page-id=0%3A1",
+  },
   {
     id: 7,
     image: img7,
